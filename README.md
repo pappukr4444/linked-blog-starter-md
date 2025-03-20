@@ -3,3 +3,7 @@ These are the markdown files for the [linked-blog-starter](https://github.com/ma
 
 
 this is nice
+
+
+
+This should be the best way do the things. I am happy with this.
